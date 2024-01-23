@@ -1,0 +1,20 @@
+
+{
+  "name": "typescript-app",
+  "version": "1.0.0",
+  "description": "Simple TypeScript Application",
+  "main": "device.js",
+  "scripts": {
+    "tsc": "tsc",
+    "start": "tsc && node ./device.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.6"
+  }
+}
