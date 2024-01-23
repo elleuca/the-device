@@ -29,3 +29,7 @@ Also, the team wrote a unit test to verify the Device class is working as expect
 
 * here is something wrong with the test?
 * here is something wrong with the class?
+
+## Credits
+
+From **Testing in Scrum** book by *Tilo Linz*
